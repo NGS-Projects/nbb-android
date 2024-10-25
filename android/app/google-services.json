@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6531443342",
+    "project_id": "blooddbank-5c24c",
+    "storage_bucket": "blooddbank-5c24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6531443342:android:0a8f9c968b9a283ee5b7df",
+        "android_client_info": {
+          "package_name": "com.nbb.nuhvinbloodbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxUSK0t6Zg1j_BwV3liHAHxTZjs4vax0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
